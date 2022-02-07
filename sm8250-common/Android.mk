@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter apollopro,$(TARGET_DEVICE)),)
+ifneq ($(filter apollon,$(TARGET_DEVICE)),)
 
 endif
